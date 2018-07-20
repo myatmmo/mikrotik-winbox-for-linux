@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# This winbox(Mikrotik Controller) program is Free for all
+# Created by Myat Min Oo(D4RKN37)
+
+# winbox application is only for Windows Programs
+# and now winbox application use in Linux
+# First, we need to install wine
+
+wine /usr/share/winbox/winbox.exe 
