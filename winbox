@@ -8,6 +8,6 @@
 # First, we need to install wine
 
 # we need to download winbox.exe file from www.mikrotik.com website 
-wget https://download.mikrotik.com/routeros/winbox/3.16/winbox.exe -O /usr/share/winbox/winbox.exe
+wget -O /usr/share/winbox/winbox.exe https://download.mikrotik.com/routeros/winbox/3.16/winbox.exe
 
 wine /usr/share/winbox/winbox.exe 
